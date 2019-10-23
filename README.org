@@ -1,0 +1,5 @@
+* Lies
+  Este es un sitio de ejemplo en el que se han publicado noticias falsas.
+  El objetivo de ellas es para mostrar cómo desmentir o apoyar noticias de una
+  manera en que los algorimtos de indexamiento y búsqueda en Internet puedan
+  entender.
